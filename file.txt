@@ -1,8 +1,0 @@
-welcome to Goa
-practical 1: study of version control system
-Git bash is a documentation tool
-module 2: new project
-ok
-welcome to Git world
-hey
-canon
